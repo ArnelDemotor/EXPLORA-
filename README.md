@@ -1,19 +1,19 @@
 # E X P L O R A
 *Your guide to discovering, planning, and navigating your next adventure effortlessly.
-Explora Mobile App.
+*Explora Mobile App.
 
 
 # Features
 * Personalized Travel Deals
-*Filter & Sort Travel Options
-*Tailored Travel Notifications
-*Save Travel Preferences
+* Filter & Sort Travel Options
+* Tailored Travel Notifications
+* Save Travel Preferences
 
 
 # User Segments
-*Frequent Travelers
-*Budget-conscious Travelers
-*Trip Planners
+* Frequent Travelers
+* Budget-conscious Travelers
+* Trip Planners
 
 
 # Tech Stack
