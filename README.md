@@ -1,6 +1,7 @@
 # E X P L O R A
-Explora Mobile App.
 *Your guide to discovering, planning, and navigating your next adventure effortlessly.
+Explora Mobile App.
+
 
 # Features
 * Personalized Travel Deals
@@ -9,7 +10,7 @@ Explora Mobile App.
 *Save Travel Preferences
 
 
-#User Segments
+# User Segments
 *Frequent Travelers
 *Budget-conscious Travelers
 *Trip Planners
