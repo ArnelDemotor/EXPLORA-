@@ -1,6 +1,5 @@
 # E X P L O R A
-*Your guide to discovering, planning, and navigating your next adventure effortlessly.
-*Explora Mobile App.
+Explora Mobile App.
 
 
 # Features
