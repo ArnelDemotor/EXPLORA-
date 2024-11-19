@@ -1,5 +1,5 @@
 # E X P L O R A
-Explora Mobile App.
+Explora Mobile App
 
 
 # Features
@@ -9,10 +9,12 @@ Explora Mobile App.
 * Save Travel Preferences
 
 
-# User Segments
-* Frequent Travelers
-* Budget-conscious Travelers
-* Trip Planners
+# Course Overview
+*Discover personalized travel deals 
+*Filter and sort travel options easily 
+*Save preferences and get notifications 
+*Explore user-focused travel features  
+*Learn basics of React Native and AppWrite  
 
 
 # Tech Stack
