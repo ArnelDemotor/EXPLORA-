@@ -12,7 +12,7 @@ Explora Mobile App
 # Course Overview
 * Discover personalized travel deals 
 * Filter and sort travel options easily 
- Save preferences and get notifications 
+* Save preferences and get notifications 
 * Explore user-focused travel features  
 * Learn basics of React Native and AppWrite  
 
