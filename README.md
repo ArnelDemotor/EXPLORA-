@@ -32,4 +32,7 @@ Explora Mobile App
 <img src="assets/images/login.png">  
 
 # Tabs Screen
-<img src="assets/images/tabs.png">  
+<img src="assets/images/home.png"> 
+<img src="assets/images/list.png"> 
+<img src="assets/images/notification.png"> 
+<img src="assets/images/profile.png"> 
