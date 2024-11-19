@@ -34,7 +34,7 @@ Explora Mobile App
 # Tabs Screen
 # Home Tab
 <img src="assets/images/home.png"> 
-# List Tab
+# List
 <img src="assets/images/list.png"> 
 # Notification Tab
 <img src="assets/images/notification.png"> 
